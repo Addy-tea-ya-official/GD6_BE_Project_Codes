@@ -1,0 +1,6 @@
+{
+"original": ["C:\\Users\\Aditya\\Downloads\\clahe_704_480_40e\\last.pt"],
+"clahe": ["C:\\Users\\Aditya\\Downloads\\clahe_704_480_40e\\last.pt", "C:\\Users\\Aditya\\Downloads\\clahe_aod_704_480_40e\\last.pt"],
+"aod": ["C:\\Users\\Aditya\\Downloads\\aod_704_480_40e\\best.pt", "C:\\Users\\Aditya\\Downloads\\clahe_704_480_40e\\last.pt"],
+"agcwd": ["C:\\Users\\Aditya\\Downloads\\aod_agcwd_704_480_40e\\last.pt"]
+}
